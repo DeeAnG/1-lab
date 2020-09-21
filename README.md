@@ -1,2 +1,2 @@
 # 1-lab
-Барановская Марина 11 гр ДЭиВИ
+Baranovskaya Marina 11 group DESIGN
